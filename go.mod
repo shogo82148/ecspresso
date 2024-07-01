@@ -27,7 +27,7 @@ require (
 	github.com/fujiwara/logutils v1.1.2
 	github.com/fujiwara/tfstate-lookup v1.1.6
 	github.com/goccy/go-yaml v1.9.5
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-jsonnet v0.19.1
 	github.com/hashicorp/go-envparse v0.1.0
 	github.com/hashicorp/go-version v1.6.0
